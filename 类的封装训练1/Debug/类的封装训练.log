@@ -1,0 +1,12 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(类的封装训练.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  stdafx.cpp
+c:\users\xxx\source\repos\新建文件夹\类的封装训练\类的封装训练1\stdafx.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\xxx\source\repos\新建文件夹\类的封装训练\类的封装训练1\stdafx.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\xxx\source\repos\新建文件夹\类的封装训练\类的封装训练1\targetver.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  类的封装训练.cpp
+c:\users\xxx\source\repos\新建文件夹\类的封装训练\类的封装训练1\类的封装训练.cpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  vending.cpp
+  正在生成代码...
+c:\users\xxx\source\repos\新建文件夹\类的封装训练\类的封装训练1\vending.cpp(38): warning C4715: “vendingmachine::BuyTicket”: 不是所有的控件路径都返回值
+  类的封装训练.vcxproj -> C:\Users\XXX\source\repos\新建文件夹\类的封装训练\类的封装训练1\Debug\类的封装训练1.exe
+  类的封装训练.vcxproj -> C:\Users\XXX\source\repos\新建文件夹\类的封装训练\类的封装训练1\Debug\类的封装训练1.pdb (Partial PDB)
